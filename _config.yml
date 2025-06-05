@@ -22,8 +22,8 @@ title: Jared Campbell's Site
 email: campbellj7899@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site and blog where I show what I'm working on and write some of my thoughts. Primarly focused on information security, artificial intelligence, and productivity workflows.
-baseurl: "https://jsc7899.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jsc7899.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  jsc7899
 
