@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hello World!
+Welcome to my personal site and blog where I show what I'm working on and write some of my thoughts. Here I focus on topics like information security, artificial intelligence, and productivity.
