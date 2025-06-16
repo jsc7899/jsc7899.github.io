@@ -1,16 +1,12 @@
 ---
 ---
 
-$brand-color: #ff79c6; // accent color
+$brand-color: #ff0000;
 $background-color: #121212;
 $text-color: #e0e0e0;
-$grey-color: #888;
-$grey-color-light: lighten($grey-color, 20%);
-$grey-color-dark: darken($grey-color, 20%);
 
 @import "minima";
 
-// Override site title color
 .site-title, .site-title a {
   color: #fff;
 }
