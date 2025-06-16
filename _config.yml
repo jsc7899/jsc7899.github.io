@@ -27,7 +27,7 @@ twitter_username: ""
 github_username:  jsc7899
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
